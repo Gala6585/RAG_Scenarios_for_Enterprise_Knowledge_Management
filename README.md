@@ -1,4 +1,4 @@
-# RAG_Scenarios_for_Enterprise_Knowledge_Management
+# Сценарии RAG для корпоративной базы знаний и документов
 
 ### 1. Обзор источников информации
 
